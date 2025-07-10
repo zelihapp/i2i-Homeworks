@@ -1,0 +1,205 @@
+
+
+ LOG dosyasý 02/21/25 12:58:42 tarihinda açýldý
+
+Toplam Dosya Sayýsý=1
+
+Veri Dosyasý: invoice_230917.txt
+
+Günlük Dosyasý: INVOICE_EXTERNAL_5240_14832.log
+
+
+
+ LOG dosyasý 02/21/25 12:58:42 tarihinda açýldý
+
+Kötü Dosya: INVOICE_EXTERNAL_5240_14832.bad
+
+INVOICE_EXTERNAL tablosunun alan tanýmlarý
+  DELIMITED BY NEWLINE kayýt formatý
+  Dosyadaki verilerin endian özelliði platform ile ayný
+  Alanlarýnýn tümü boþ olan satýrlar kabul edilir
+
+  Veri Kaynaðýndaki Alanlar: 
+
+    MSISDN                          CHAR (255)
+      "|" ile sonlandýrýlýr
+      Boþluklar SQL Loader gibi kýrpýlýr
+    SERVICE_NAME                    CHAR (255)
+      "|" ile sonlandýrýlýr
+      Boþluklar SQL Loader gibi kýrpýlýr
+    START_DATE                      CHAR (255)
+      "|" ile sonlandýrýlýr
+      Boþluklar SQL Loader gibi kýrpýlýr
+    END_DATE                        CHAR (255)
+      "|" ile sonlandýrýlýr
+      Boþluklar SQL Loader gibi kýrpýlýr
+    PRODUCT_TYPE                    CHAR (255)
+      "|" ile sonlandýrýlýr
+      Boþluklar SQL Loader gibi kýrpýlýr
+    NET_AMOUNT                      CHAR (255)
+      "|" ile sonlandýrýlýr
+      Boþluklar SQL Loader gibi kýrpýlýr
+
+
+ LOG dosyasý 02/21/25 13:10:35 tarihinda açýldý
+
+Toplam Dosya Sayýsý=1
+
+Veri Dosyasý: invoice_230917.txt
+
+Günlük Dosyasý: INVOICE_EXTERNAL_5240_14832.log
+
+
+
+ LOG dosyasý 02/21/25 13:10:35 tarihinda açýldý
+
+Kötü Dosya: INVOICE_EXTERNAL_5240_14832.bad
+
+INVOICE_EXTERNAL tablosunun alan tanýmlarý
+  DELIMITED BY NEWLINE kayýt formatý
+  Dosyadaki verilerin endian özelliði platform ile ayný
+  Alanlarýnýn tümü boþ olan satýrlar kabul edilir
+
+  Veri Kaynaðýndaki Alanlar: 
+
+    MSISDN                          CHAR (255)
+      "|" ile sonlandýrýlýr
+      Boþluklar SQL Loader gibi kýrpýlýr
+    SERVICE_NAME                    CHAR (255)
+      "|" ile sonlandýrýlýr
+      Boþluklar SQL Loader gibi kýrpýlýr
+    START_DATE                      CHAR (255)
+      "|" ile sonlandýrýlýr
+      Boþluklar SQL Loader gibi kýrpýlýr
+    END_DATE                        CHAR (255)
+      "|" ile sonlandýrýlýr
+      Boþluklar SQL Loader gibi kýrpýlýr
+    PRODUCT_TYPE                    CHAR (255)
+      "|" ile sonlandýrýlýr
+      Boþluklar SQL Loader gibi kýrpýlýr
+    NET_AMOUNT                      CHAR (255)
+      "|" ile sonlandýrýlýr
+      Boþluklar SQL Loader gibi kýrpýlýr
+
+
+ LOG dosyasý 02/21/25 13:12:00 tarihinda açýldý
+
+Toplam Dosya Sayýsý=1
+
+Veri Dosyasý: invoice_230917.txt
+
+Günlük Dosyasý: INVOICE_EXTERNAL_5240_14832.log
+
+
+
+ LOG dosyasý 02/21/25 13:12:00 tarihinda açýldý
+
+Kötü Dosya: INVOICE_EXTERNAL_5240_14832.bad
+
+INVOICE_EXTERNAL tablosunun alan tanýmlarý
+  DELIMITED BY NEWLINE kayýt formatý
+  Dosyadaki verilerin endian özelliði platform ile ayný
+  Alanlarýnýn tümü boþ olan satýrlar kabul edilir
+
+  Veri Kaynaðýndaki Alanlar: 
+
+    MSISDN                          CHAR (255)
+      "|" ile sonlandýrýlýr
+      Boþluklar SQL Loader gibi kýrpýlýr
+    SERVICE_NAME                    CHAR (255)
+      "|" ile sonlandýrýlýr
+      Boþluklar SQL Loader gibi kýrpýlýr
+    START_DATE                      CHAR (255)
+      "|" ile sonlandýrýlýr
+      Boþluklar SQL Loader gibi kýrpýlýr
+    END_DATE                        CHAR (255)
+      "|" ile sonlandýrýlýr
+      Boþluklar SQL Loader gibi kýrpýlýr
+    PRODUCT_TYPE                    CHAR (255)
+      "|" ile sonlandýrýlýr
+      Boþluklar SQL Loader gibi kýrpýlýr
+    NET_AMOUNT                      CHAR (255)
+      "|" ile sonlandýrýlýr
+      Boþluklar SQL Loader gibi kýrpýlýr
+
+
+ LOG dosyasý 02/21/25 13:13:56 tarihinda açýldý
+
+Toplam Dosya Sayýsý=1
+
+Veri Dosyasý: invoice_230917.txt
+
+Günlük Dosyasý: INVOICE_EXTERNAL_5240_14832.log
+
+
+
+ LOG dosyasý 02/21/25 13:13:56 tarihinda açýldý
+
+Kötü Dosya: INVOICE_EXTERNAL_5240_14832.bad
+
+INVOICE_EXTERNAL tablosunun alan tanýmlarý
+  DELIMITED BY NEWLINE kayýt formatý
+  Dosyadaki verilerin endian özelliði platform ile ayný
+  Alanlarýnýn tümü boþ olan satýrlar kabul edilir
+
+  Veri Kaynaðýndaki Alanlar: 
+
+    MSISDN                          CHAR (255)
+      "|" ile sonlandýrýlýr
+      Boþluklar SQL Loader gibi kýrpýlýr
+    SERVICE_NAME                    CHAR (255)
+      "|" ile sonlandýrýlýr
+      Boþluklar SQL Loader gibi kýrpýlýr
+    START_DATE                      CHAR (255)
+      "|" ile sonlandýrýlýr
+      Boþluklar SQL Loader gibi kýrpýlýr
+    END_DATE                        CHAR (255)
+      "|" ile sonlandýrýlýr
+      Boþluklar SQL Loader gibi kýrpýlýr
+    PRODUCT_TYPE                    CHAR (255)
+      "|" ile sonlandýrýlýr
+      Boþluklar SQL Loader gibi kýrpýlýr
+    NET_AMOUNT                      CHAR (255)
+      "|" ile sonlandýrýlýr
+      Boþluklar SQL Loader gibi kýrpýlýr
+
+
+ LOG dosyasý 02/21/25 13:29:19 tarihinda açýldý
+
+Toplam Dosya Sayýsý=1
+
+Veri Dosyasý: invoice_230917.txt
+
+Günlük Dosyasý: INVOICE_EXTERNAL_5240_14832.log
+
+
+
+ LOG dosyasý 02/21/25 13:29:19 tarihinda açýldý
+
+Kötü Dosya: INVOICE_EXTERNAL_5240_14832.bad
+
+INVOICE_EXTERNAL tablosunun alan tanýmlarý
+  DELIMITED BY NEWLINE kayýt formatý
+  Dosyadaki verilerin endian özelliði platform ile ayný
+  Alanlarýnýn tümü boþ olan satýrlar kabul edilir
+
+  Veri Kaynaðýndaki Alanlar: 
+
+    MSISDN                          CHAR (255)
+      "|" ile sonlandýrýlýr
+      Boþluklar SQL Loader gibi kýrpýlýr
+    SERVICE_NAME                    CHAR (255)
+      "|" ile sonlandýrýlýr
+      Boþluklar SQL Loader gibi kýrpýlýr
+    START_DATE                      CHAR (255)
+      "|" ile sonlandýrýlýr
+      Boþluklar SQL Loader gibi kýrpýlýr
+    END_DATE                        CHAR (255)
+      "|" ile sonlandýrýlýr
+      Boþluklar SQL Loader gibi kýrpýlýr
+    PRODUCT_TYPE                    CHAR (255)
+      "|" ile sonlandýrýlýr
+      Boþluklar SQL Loader gibi kýrpýlýr
+    NET_AMOUNT                      CHAR (255)
+      "|" ile sonlandýrýlýr
+      Boþluklar SQL Loader gibi kýrpýlýr
